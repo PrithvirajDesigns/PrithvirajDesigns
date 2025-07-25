@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Prithviraj R!<br><br>🎓 I'm Passionate about development, design, and fitness<br>🏋️‍♂️ Developed an online fitness center website<br>📅 Built PlanAhead – A productivity web app using React and Supabase<br>
+👋 Hi, I'm Prithviraj R!<br><br>🎓 I'm Passionate about development, design. <br>🏋️‍♂️ Developed an online fitness center website<br>📅 Built PlanAhead – A productivity web app using React and Supabase<br>
 👉 [Check my Behance to see my design works](https://www.behance.net/prithvir)<br>🚀 Always learning, creating, and improving!
 
 
