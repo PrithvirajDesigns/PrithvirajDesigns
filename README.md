@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤠 I'm Passionate about developing and designing. <br>🪀 Exploring vibe coding and building some cool things with it<br>🌱 Always learning, creating, and improving!
+🤠 Designer who tries to builds something. <br>🪀 Exploring vibe coding and building some cool things with it.<br>🌱 Always learning, creating, and improving!
 
 
 
